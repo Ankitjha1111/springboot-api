@@ -1,0 +1,25 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/logs/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# OS
+*.swp
+*.swo
+
+# Environment files
+.env
